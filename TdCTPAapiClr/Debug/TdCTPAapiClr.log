@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  dllmain.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  TdApiClr.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  TdCenterSpi.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  正在生成代码...
+d:\boost_1_67_0\boost_1_67_0\boost\thread\win32\thread_primitives.hpp(307): warning C4793: “boost::detail::win32::interlocked_bit_test_and_set”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+d:\boost_1_67_0\boost_1_67_0\boost\thread\win32\basic_timed_mutex.hpp(244): warning C4793: “boost::detail::basic_timed_mutex::unlock”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+d:\boost_1_67_0\boost_1_67_0\boost\thread\win32\basic_timed_mutex.hpp(244): warning C4793: “boost::detail::basic_timed_mutex::unlock”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+d:\boost_1_67_0\boost_1_67_0\boost\thread\win32\thread_primitives.hpp(307): warning C4793: “boost::detail::win32::interlocked_bit_test_and_set”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  dllmain.obj :托管的代码存在时 /DEBUG:FASTLINK 不受支持；正在重新启动与 /DEBUG:FULL 的链接
+    正在创建库 D:\HotDancerSystem\Resource\TdCTPAapiClr.lib 和对象 D:\HotDancerSystem\Resource\TdCTPAapiClr.exp
+  TdCTPAapiClr.vcxproj -> D:\HotDancerSystem\Resource\TdCTPAapiClr.dll
